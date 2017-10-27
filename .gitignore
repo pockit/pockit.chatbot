@@ -1,0 +1,8 @@
+**/bin/**
+**/obj/**
+**/backup/**
+**/.vs/**
+**/node_modules/**
+/packages/**
+**/appsettings.json
+**/*.pubxml
